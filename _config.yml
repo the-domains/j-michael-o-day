@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5235543
+typography_spectrum: 0
 color:
   saturation: 0.7126642
-  brandStrength: 0.8043036
+  brandStrength: 1
   lightness: 0.3363202
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#18171C'
+    - '#F3F3F3'
+    - '#B45C27'
+    - '#424B6E'
+    - '#E0BDAB'
   rhythmicContrast: 0.1644189
-layout_spectrum: 0.01326353
+layout_spectrum: 0.6636798
 name: "J. Michael O'Day"
